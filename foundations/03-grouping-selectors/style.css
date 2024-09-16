@@ -1,0 +1,14 @@
+.content1, 
+.content2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.content1 {
+    background-color: black;
+    color: white;
+}
+
+.content2 {
+    background-color: yellow;
+}
